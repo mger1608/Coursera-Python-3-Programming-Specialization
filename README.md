@@ -6,3 +6,5 @@ Course 2: Python Functions, Files, and Dictionaries
 Course 3: Data Collection and Processing with Python
 Course 4: Python Classes and Inheritance
 Course 5: Python Project: pillow, tesseract, and opencv
+
+
